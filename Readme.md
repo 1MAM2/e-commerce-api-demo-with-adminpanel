@@ -26,7 +26,7 @@ Designed for rapid integration, this demo includes 23 working endpoints, user/pr
 
 ### Backend
 ```bash
-cd server/productApi
+cd server
 dotnet restore
 dotnet run
 ```
